@@ -1,0 +1,50 @@
+body{
+    background-color:#d2dec1;
+    font: 16px arial,helvetica,sans-serif;
+}
+
+a{
+    text-decoration: none;
+    padding: 15px;
+}
+ 
+#principal{
+    width: 900px;
+}
+
+
+#menu{
+    text-align: center;
+    height: 40px;
+    padding-left: 10px;
+    padding-top: 20px;
+    background-color: #d2d2c9;
+}
+
+#conteudo{
+    background-color: white;
+    border: 1px solid red
+}
+
+.titulos{
+    font: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.texto{
+    border: 1px aliceblue solid;
+    padding-left: 20px;
+    
+}
+
+#rodape{
+    height: 40px;
+    text-align: center;
+}
+
+.img-campanha{
+    border: 10px solid #c3c3ae;
+}
